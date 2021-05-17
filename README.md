@@ -1,6 +1,6 @@
 **Simple Mac Application** that stays on Menu Bar. Check or uncheck "Hide" to hide/unhide the desktop items.
 
-![APP Screenshot](/images/https://github.com/riteshgaur/HideDesktopIcons_Mac/blob/master/Hidemydesktop_mac-APP.png)
+![APP Screenshot](/https://github.com/riteshgaur/HideDesktopIcons_Mac/blob/master/Hidemydesktop_mac-APP.png)
 
 
 
