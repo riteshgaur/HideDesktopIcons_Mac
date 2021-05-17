@@ -2,7 +2,7 @@
 
 ## Works with Latest M1 Model
 
-## Know issues:If you Hide the Desktop Icons and restart (Most Mac users won't), Desktop Icons are still hidden. Simplay relaunch the App to hide/unhide 
+Know issues:If you Hide the Desktop Icons and restart (Most Mac users won't), Desktop Icons are still hidden. Simplay relaunch the App to hide/unhide 
 
 
 
